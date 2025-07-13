@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/seu-usuario/nome-do-repo.git
+git add .
+git commit -m "Primeiro commit"
+git push -u origin master
